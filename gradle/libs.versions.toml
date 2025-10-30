@@ -73,3 +73,4 @@ androidx-core-testing = { group = "androidx.arch.core", name = "core-testing", v
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
 jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+moneyConvertor-android-library = { id = "moneyConvertor.android.library", version = "unspecified" }
