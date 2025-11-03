@@ -76,3 +76,6 @@ jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = 
 moneyConvertor-android-library = { id = "moneyConvertor.android.library", version = "unspecified" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 moneyconvertor-jvm = { id = "moneyConvertor.jvm.library", version = "unspecified" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+hilt = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
+moneyconvertor-android-hilt = { id = "moneyConvertor.android.hilt", version = "unspecified" }
