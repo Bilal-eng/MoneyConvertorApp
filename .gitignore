@@ -1,5 +1,8 @@
 *.iml
+.idea/*
+.idea/
 .gradle
+.gradle/
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -9,7 +12,39 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
+**/build/
+**/build
+**/out/
+**/.gradle/
 /captures
 .externalNativeBuild
 .cxx
 local.properties
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+# Eclipse project files
+.classpath
+.project
+
+# generated files
+bin/
+gen/
+out/
+build/
+generated/
+
+# built application files
+*.apk
+*.ap_
+
+# Kotlin
+.kotlin
+
+# === Gradle ===
+!gradlew
+!gradlew.bat
+
+.idea/deploymentTargetSelector.xml
