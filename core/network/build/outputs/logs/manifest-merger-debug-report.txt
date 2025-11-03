@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest356329494838578116.xml:2:13-83
-INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest356329494838578116.xml:2:13-83
+ADDED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest2769245990404763250.xml:2:13-83
+INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest2769245990404763250.xml:2:13-83
 	package
-		INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest356329494838578116.xml
+		INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest2769245990404763250.xml
 	xmlns:android
-		ADDED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest356329494838578116.xml:2:23-81
+		ADDED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest2769245990404763250.xml:2:23-81
 uses-sdk
-INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest356329494838578116.xml reason: use-sdk injection requested
-INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest356329494838578116.xml
-INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest356329494838578116.xml
+INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest2769245990404763250.xml reason: use-sdk injection requested
+INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest2769245990404763250.xml
+INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest2769245990404763250.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest356329494838578116.xml
+		INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest2769245990404763250.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest356329494838578116.xml
+		INJECTED from C:\Users\BHALILOGLU\AndroidStudioProjects\MoneyConvertorApp\core\network\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest2769245990404763250.xml
