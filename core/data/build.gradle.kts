@@ -1,5 +1,5 @@
 plugins {
-    alias(libs.plugins.moneyConvertor.android.library)
+    alias(libs.plugins.moneyconvertor.android.library)
     alias(libs.plugins.moneyconvertor.android.hilt)
 }
 
