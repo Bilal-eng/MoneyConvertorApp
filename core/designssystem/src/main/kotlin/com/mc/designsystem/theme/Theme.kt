@@ -1,4 +1,4 @@
-package com.bilal.moneyconvertorapp.ui.theme
+package com.mc.designsystem.theme
 
 import android.app.Activity
 import android.os.Build
