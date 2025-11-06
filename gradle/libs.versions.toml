@@ -80,3 +80,4 @@ kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", versi
 moneyconvertor-jvm = { id = "moneyConvertor.jvm.library", version = "unspecified" }
 moneyconvertor-android-hilt = { id = "moneyConvertor.android.hilt", version = "unspecified" }
 moneyconvertor-android-compose = { id = "moneyConvertor.android.compose", version = "unspecified" }
+moneyconvertor-android-feature = { id = "moneyConvertor.android.feature", version = "unspecified" }
